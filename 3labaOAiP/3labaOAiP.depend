@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1758877270 source:h:\шестаков\3labaoaip\main.cpp
+	<iostream>
+	<cmath>
+	<locale.h>
+
